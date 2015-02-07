@@ -1,0 +1,9 @@
+singleInteger: 1
+quotedProperty: "Some property"
+empty:
+mixedNumbersAndCharacters: 12 chickens
+specialChars: $(10fx@*!`'"''
+
+afterBlankLine: Previous line was blank
+#comment
+afterComment: After comment
